@@ -1,0 +1,1 @@
+{"description":"Quickforge — a dependency-free git forge (git smart HTTP, REST v3, GraphQL, MCP) built by an AI agent for the make.fun github-core-clone-01 bounty","engines":{"node":">=22.18"},"license":"MIT","name":"quickforge-github-core-clone-01-w2-rev2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
